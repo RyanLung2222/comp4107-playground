@@ -5,7 +5,7 @@ import hk.edu.hkbu.comp.comp4107.playground.lungpokhon.SelfIntroduction
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
-// A small changes
+// A small changesss
 fun main() {
     val name = "Kotlin"
     //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
